@@ -1,2 +1,2 @@
 # Read_LAS
-The programm is about reading .las file (lidar point clous) with Python.
+The program is about reading .las file (lidar point cloud) with Python.
